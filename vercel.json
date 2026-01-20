@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/tiktok/:path*",
+      "destination": "https://www.tiktok.com*"
+    }
+  ]
+}
